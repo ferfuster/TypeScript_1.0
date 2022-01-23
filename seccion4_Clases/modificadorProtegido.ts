@@ -19,4 +19,4 @@ class Hija extends Padre1{
     }
 }
 
-const obj = new Hija("carla","castillo")
+const objet = new Hija("carla","castillo")

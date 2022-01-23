@@ -15,7 +15,7 @@ class Animal1{
     }
 }
 
-const obj = new Animal1("serpiente", 2)
+const obje = new Animal1("serpiente", 2)
 
 class Conectar{
     private url:string
