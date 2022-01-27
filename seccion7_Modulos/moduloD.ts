@@ -1,0 +1,1 @@
+import Personita from "./moduloC";
